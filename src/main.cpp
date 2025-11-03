@@ -1,9 +1,9 @@
 #include<iostream>
 
-using namspace std;
+using namespace std;
 
 int main()
 {
     cout << "Cpp" << endl;
-    return 0
+    return 0;
 }
